@@ -47,7 +47,7 @@ the chances of her typing all of those commands right are practically zero.
 
 
 
-Nelle went to a workshop called Software Carpentry a few months ago. SHe digs out her
+Nelle went to a workshop called Software Carpentry a few months ago. She digs out her
 notes and finds the following:
 
 At a high level, computers do four things:
